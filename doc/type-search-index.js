@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ru.sfu","l":"AudioFile"},{"p":"ru.sfu","l":"AudioPlayer"},{"p":"ru.sfu","l":"Main"},{"p":"ru.sfu","l":"Music"},{"p":"ru.sfu","l":"Song"},{"p":"ru.sfu","l":"SpringConfig"},{"p":"ru.sfu","l":"VoiceRecord"}];updateSearchResults();
