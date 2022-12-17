@@ -1,2 +1,2 @@
-# kris2anno
-KRIS Lab #2 with configuration class
+# DoCIS Lab #2 Java
+DoCIS Lab #2 with Java class configuration
